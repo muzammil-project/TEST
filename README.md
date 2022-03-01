@@ -1,27 +1,31 @@
-# AngularAssessment
+# Angular Quiz Challenge
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+Can you build a simple quiz interface with Angular?
 
-## Development server
+## The Challenge
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Using the following wireframes, build a quiz interface. Using your comprehension about how the application functions, construct all applicable tests. The questions are all in [questions.json](src/assets/questions.json).
 
-## Code scaffolding
+![Question](docs/wire-question.png)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![Correct Answer](docs/wire-answer-correct.png)
 
-## Build
+![Incorrect Answer](docs/wire-answer-incorrect.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+![Progress](docs/wire-progress.png)
 
-## Running unit tests
+![Difficulty](docs/wire-difficulty.png)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Score](docs/wire-score.png)
 
-## Running end-to-end tests
+## Instructions
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+How to attempt this challenge:
 
-## Further help
+1. Create a new repo in your account and note the git url
+2. Clone this repo
+3. Solve the challenge
+4. Set your new repo as the origin: `git remote set-url origin ${your repo url}`
+5. Push your solution to your repo
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+You must follow these steps for your solution to be accepted -- forks or other methods will not be considered.
